@@ -1,0 +1,21 @@
+.section_12 {
+    max-width: 144rem;
+    height: 18.05rem;
+    margin: auto;
+    background-color: rgb(172, 122, 231);
+    border: 0.2rem solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.D12_1{
+    width:143px ;
+    height:52.5px;
+    border: 2px solid black;
+    border-radius: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 600;
+}

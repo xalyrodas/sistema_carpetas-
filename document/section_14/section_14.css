@@ -1,0 +1,13 @@
+.section_14 {
+    max-width: 144rem;
+    height: 90.413rem;
+    margin: auto;
+    background-color: rgb(241, 233, 251);
+    border: 0.2rem solid black;
+}
+.D12{
+    width: 1,040px;
+    height: 664.13px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
